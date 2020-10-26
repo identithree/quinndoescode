@@ -7,10 +7,8 @@ I write code and put it on the internet
 - 📫 How to reach me: [Email]( mailto:me@imbl.me?subject=GitHub%20-%20Hey%20%F0%9F%91%8B&body=Type%20your%20question%2C%20comment%2C%20cool%20pictures%20of%20cats%2C%20etc.%20here.%20You%20also%20might%20want%20to%20change%20the%20subject%20to%20better%20fit%20what%20this%20email%20is%20about. ) and [Discord](https://invite.gg/thesolarsystem)
 - 😄 Pronouns: he/him
 - 🌈 Orientation: Gay
-  
-  
-💬 Social: [@brndnlane on Twitter](https://twitter.com/brndnlane)  
-💲 Tips: https://ko-fi.com/brendanlane
+- 💬 Social: [@brndnlane on Twitter](https://twitter.com/brndnlane)
+- 💲 Tips: https://ko-fi.com/brendanlane
 
 <!--
 **brndnln/brndnln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
