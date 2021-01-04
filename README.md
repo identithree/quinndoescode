@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Brendan Lane!
+<h3 align="center">Hi there 👋, My name is Brendan Lane!</h3>
 I write code and put it on the internet
 
 - 🔭 I’m currently working on [The Pluto Discord Bot](https://github.com/brndnln/Pluto) and [stuff for Vexi](https://github.com/vexico). I also work on [Valour](https://github.com/SpikeViper/Valour)
