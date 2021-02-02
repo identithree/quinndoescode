@@ -1,5 +1,5 @@
 <h3 align="center">Hi there 👋, My name is Brendan Lane!</h3>
-I write code and put it on the internet
+I'm 14 years old and write code to escape school. I mainly write in Node.js and Typescript however I am learning C/C++ and Rust.
 
 *[ Currently under construction ]*
 
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/zaida04/zaida04/tree/6889aa9454867fbe26cbd803ba7d42b4dde012fb
 
 Saving Items:
 - 💲 Tips: https://ko-fi.com/brendanlane
