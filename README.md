@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋, My name is Brendan Lane!</h3>
+<h3 align="center">Hi there 👋, My name is Quinn Lane!</h3>
 I'm 14 years old and write code to escape school. I mainly write in Node.js and Typescript however I am learning C/C++ and Rust.
 
 *[ Currently under construction ]*
