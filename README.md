@@ -1,5 +1,5 @@
 <h3 align="center">Hi there 👋, My name is Quinn Lane!</h3>
-I'm 14 years old and write code to escape school. I mainly write in Node.js and Typescript however I am learning C/C++ and Rust.
+I'm a 14 year old trans furry and write code to escape school. You may use they/he pronouns. I mainly write in Node.js and Typescript however I am learning C/C++ and Rust. I am pouring most of my time into a project I am working on called [Pluto](https://github.com/quinndoescode/Pluto) and its base [PlutoCore](https://github.com/quinndoescode/PlutoCore). Pluto is a multipurpose discord bot that will combine multiple bots into one while PlutoCore is a template for making discord bots in discord.js and discord-akairo
 
 *[ Currently under construction ]*
 
